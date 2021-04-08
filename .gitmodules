@@ -1,0 +1,3 @@
+[submodule "ldd"]
+	path = ldd
+	url = https://github.com/YSL-1997/ldd.git
